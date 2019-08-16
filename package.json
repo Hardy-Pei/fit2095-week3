@@ -1,0 +1,25 @@
+{
+  "name": "week3",
+  "version": "1.0.0",
+  "main": "lab_task.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hardy-Pei/fit2095-week3.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Hardy-Pei/fit2095-week3/issues"
+  },
+  "homepage": "https://github.com/Hardy-Pei/fit2095-week3#readme",
+  "description": ""
+}
